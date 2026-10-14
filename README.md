@@ -2,7 +2,7 @@
 An end-to-end business intelligence project analyzing retail performance, regional distributions, and product segment revenue across the United States using Power BI.
 ---
 ## Dashboard Preview
-![Dashboard Screenshot](assets/dashboard_preview.png)
+![Dashboard Screenshot](dashboard_demo.png)
 ---
 ## Executive Summary
 This interactive dashboard tracks commercial metrics across in-store, online, and outlet sales channels. The analysis identifies key growth drivers, seasonal fluctuations, and retailer contributions to optimize retail inventory and marketing strategies.
